@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KumarSr18
 - 👀 I’m interested in Web Development & SDE
-- 🌱 I’m currently learning Full Stack Web Development & SDE
+- 🌱 I’m currently working as a Data Engineer at LatentViewAnalytics
 - 💞️ I’m looking to collaborate on FSWD Projects
 - 📫 How to reach me ks1851999@gmail.com
 
