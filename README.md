@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development & SDE
 - 🌱 I’m currently working as a `Data Engineer` at [LatentViewAnalytics](https://www.latentview.com/)
 - 💞️ I’m looking to collaborate on `FSWD`, `Data Science` & `Python Projects`
-- 📫 [Contact Me](kumars1852000@gmail.com)
+- 📫 [Contact Me](mailto:kumars1852000@gmail.com)
 
 *Projects* | `Working` | **Completed**
 --- | --- | ---
