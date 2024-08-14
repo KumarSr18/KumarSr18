@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Kumar Srinivas**
 - 👀 I’m interested in Web Development & SDE
-- 🌱 I’m currently working as a `Data Engineer` at [LatentViewAnalytics](https://www.latentview.com/)
+- 🌱 I’m have worked as a `Data Engineer` at [LatentViewAnalytics](https://www.latentview.com/) and currently working as a SDE1 (Data Engineering & Services) at [NineLeaps](https://www.nineleaps.com/)
 - 💞️ I’m looking to collaborate on `FSWD`, `Data Science` & `Python Projects`
 - 📫 [Contact Me](mailto:kumars1852000@gmail.com)
 
